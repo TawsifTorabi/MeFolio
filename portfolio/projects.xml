@@ -1,0 +1,122 @@
+<projects>
+
+  <project>
+    <title>Realtime HTML</title>
+    <imageSrc>assets/images/realtimehtml.gif</imageSrc>
+    <technologies>HTML + CSS + Javascript</technologies>
+    <description>Realtime HTML Editor for HTML beginners</description>
+    <link>https://tawsiftorabi.github.io/realtimeHTML</link>
+    <link>https://github.com/TawsifTorabi/realtimeHTML</link>
+  </project>
+  
+  <project>
+    <title>UCAM extended</title>
+    <imageSrc>assets/images/ucamextended.gif</imageSrc>
+    <technologies>Javascript</technologies>
+    <description>A Web Plugin for UIU UCAM Users to add Exam Routine on UIU UCAM</description>
+    <link>https://tawsiftorabi.github.io/ucamextended</link>
+    <link>https://github.com/TawsifTorabi/ucamextended</link>
+  </project>
+  
+  <project>
+    <title>Aurna Lightbox</title>
+    <imageSrc>assets/images/AurnaLightbox.gif</imageSrc>
+    <technologies>Javascript</technologies>
+    <description>A Lightbox for Websites to showcase Iframes and Images</description>
+    <link>https://tawsiftorabi.github.io/AurnaLightbox</link>
+    <link>https://github.com/TawsifTorabi/AurnaLightbox</link>
+  </project>
+  
+  <project>
+    <title>UIU cse contents</title>
+    <imageSrc>assets/images/UIUcse.png</imageSrc>
+    <technologies>Javascript + HTML + CSS</technologies>
+    <description>A Simple JSON Search Engine for Recorded Course Contents</description>
+    <link>https://www.youtube.com/watch?v=DX2vy2BJ--I</link>
+  </project>
+  
+  <project>
+    <title>Responsive Tester</title>
+    <imageSrc>assets/images/ResponsiveTester.png</imageSrc>
+    <technologies>Javascript + HTML + CSS</technologies>
+    <description>Most Lite Javascript Tool for website responsive tests</description>
+    <link>https://tawsiftorabi.github.io/ResponsiveTester/</link>
+    <link>https://github.com/TawsifTorabi/ResponsiveTester</link>
+  </project>
+  
+  <project>
+    <title>Mini Forum</title>
+    <imageSrc>assets/images/MiniForum.png</imageSrc>
+    <technologies>Javascript + HTML + CSS + PHP + MYSQL</technologies>
+    <description>A Simple PHP Online &amp; A Forum for Student Groups</description>
+    <link>https://github.com/TawsifTorabi/MiniForum/</link>
+  </project>
+  
+  <project>
+    <title>Doc Chamber</title>
+    <imageSrc>assets/images/DocChamber.png</imageSrc>
+    <technologies>Javascript + HTML + CSS + PHP + MYSQL</technologies>
+    <description>Appointment System for Doctor Chamber</description>
+    <link>https://github.com/TawsifTorabi/DocChamber_Appointment_System</link>
+  </project>
+ 
+  <project>
+    <title>Content Linkage</title>
+    <imageSrc>assets/images/ContentLinkage.png</imageSrc>
+    <technologies>Javascript + HTML + CSS + PHP + MYSQL</technologies>
+    <description>Simple Content Sharing System Concept for DBMS Project</description>
+    <link>https://github.com/TawsifTorabi/ContentLinkage</link>
+  </project>
+  
+ 
+  <project>
+    <title>Weekly Sales Register</title>
+    <imageSrc>assets/images/WeeklySalesRegister.png</imageSrc>
+    <technologies>Javascript + HTML + CSS + PHP + SQLite</technologies>
+    <description>Weekly Magazine Sales Tracking System in PHP and SQLite</description>
+    <link>https://github.com/TawsifTorabi/WeeklySalesRegister</link>
+  </project>
+ 
+  <project>
+    <title>Web Photobooth</title>
+    <imageSrc>assets/images/webphotobooth.png</imageSrc>
+    <technologies>Javascript + HTML + CSS + PHP</technologies>
+    <description>A Web App for Kiosk Booths allows users to capture photos</description>
+    <link>https://tawsiftorabi.github.io/Web_Photobooth</link>
+    <link>https://github.com/TawsifTorabi/Web_Photobooth</link>
+  </project>
+  
+  <project>
+    <title>Rupok CMS</title>
+    <imageSrc>assets/images/rupokCMS.png</imageSrc>
+    <technologies>Javascript + HTML + CSS + PHP + MYSQL</technologies>
+    <description>A CMS for Online E-Book Magazine Publication</description>
+    <link>https://github.com/TawsifTorabi/rupokCMS</link>
+  </project>
+
+  <project>
+    <title>Website Down Detector</title>
+    <imageSrc>assets/images/WebsiteDownDetector.png</imageSrc>
+    <technologies>Java + Jswing</technologies>
+    <description>JSwing app to detect website status</description>
+    <link>JSwing app to detect website status</link>
+  </project>
+  
+  <project>
+    <title>Java Resistor Calculator</title>
+    <imageSrc>assets/images/ResistorCalculatorJava.png</imageSrc>
+    <technologies>Java + Jswing</technologies>
+    <description>JSwing Application to Decode Resistor Color Band Codes</description>
+    <link>https://github.com/TawsifTorabi/ResistorColorBandCalculatorJava/raw/main/ResistorCalculator.jar</link>
+    <link>https://github.com/TawsifTorabi/ResistorColorBandCalculatorJava/</link>
+  </project>
+  
+  <project>
+    <title>Care Me Fx</title>
+    <imageSrc>assets/images/CareMeFx.png</imageSrc>
+    <technologies>Java + Jswing + MYSQL</technologies>
+    <description>JavaFX Healthcare Companion Application</description>
+    <link>https://github.com/TawsifTorabi/CareMeFx</link>
+  </project>
+  
+</projects>
